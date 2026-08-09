@@ -1,3 +1,6 @@
+# Author: 8!!
+# GitHub: https://github.com/HACHI81426
+
 """选点/拉框工具：打开图片，鼠标取点或拉矩形，输出原图坐标，并可为每个形状添加说明。
 
 用法: python pick_coords.py <图片路径>

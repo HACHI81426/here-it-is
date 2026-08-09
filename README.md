@@ -83,6 +83,10 @@ python pick_coords.py 图片路径.png
 
 本项目使用 [MIT](LICENSE) 许可证。
 
+## ✍️ 作者
+
+- 8!!（[GitHub](https://github.com/HACHI81426)）
+
 ## 📜 版本历史
 
 完整历史见 [CHANGELOG.md](CHANGELOG.md)。
