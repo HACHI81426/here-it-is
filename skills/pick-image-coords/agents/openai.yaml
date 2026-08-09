@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片元素识别与坐标选取"
+  short_description: "识别图片/截图中的界面元素并获取精确原图坐标，支持OCR定位与自动化坐标输出"
+  default_prompt: "Use $pick-image-coords to identify elements in this image and get their coordinates."

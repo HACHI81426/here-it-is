@@ -72,16 +72,8 @@ python pick_coords.py 图片路径.png
 ├── 使用说明.txt        # 中文详细使用说明
 ├── CHANGELOG.md       # 更新日志
 ├── LICENSE            # MIT 开源协议
-├── skills/pick-image-coords/  # Codex 技能包（AI 自动识别元素并取坐标）
 └── .gitignore
 ```
-
-## 🤖 附带技能（Codex Skill）
-
-仓库同时附带 `pick-image-coords` 技能包：把它放入 `~/.codex/skills/` 后，Codex 在遇到“识别图片元素 / 取坐标 / OCR 定位”等任务时会自动调用本工具。
-
-- 技能说明：[skills/pick-image-coords/SKILL.md](skills/pick-image-coords/SKILL.md)
-- 安装说明：[skills/pick-image-coords/安装说明.txt](skills/pick-image-coords/安装说明.txt)
 
 ## 🤝 参与贡献
 

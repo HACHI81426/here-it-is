@@ -13,7 +13,6 @@
 
 - 准备 GitHub 发布：补齐 README、CHANGELOG、许可证等发布文档
 - 添加作者署名 8!!
-- 附带 pick-image-coords Codex 技能包（内置 v1.9.0–v1.12.0 工具）
 
 ## [1.11.0] - 2026-08-09
 
